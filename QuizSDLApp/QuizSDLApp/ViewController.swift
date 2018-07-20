@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Flashcard
+//  QuizSDLApp
 //
 //  Created by Lapinski, James Watson (J.) on 7/20/18.
 //  Copyright © 2018 Lapinski, James Watson (J.). All rights reserved.
